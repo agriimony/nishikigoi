@@ -1,5 +1,10 @@
 # Nishikigoi
 
-A generative art experiment to animate koi from code.
+A generative art experiment to animate a randomly generated koi pond. 
+Coded up using p5.js.
 
-Click to interact with fish
+- Refresh to reroll
+- Click to interact with fish
+- 's' to screenshot
+
+![test image](./test.gif)
